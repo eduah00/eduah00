@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)![]([https://giphy.com/embed/qSzInkbcNJNz5jpY6b])My name is Emmanuel Duah
 =====================================================================================================================================
 
-Aspiring Software Engineer ![code gif](https://github.com/eduah00/eduah00/blob/main/windows%20loading_final.gif =250x250)
+Aspiring Software Engineer ![code gif](https://github.com/eduah00/eduah00/blob/main/windows%20loading_final.gif)
 --------------------------
 
 I've been coding on and off since high school, and now I'm taking it serious? Right now, I'm trying to learn the basics of various languages and expand from that. I have a myriad of ideas and hopefully, my repo will document my attempts
